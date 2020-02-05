@@ -1,0 +1,30 @@
+.task{
+    display:flex;
+    flex-direction: row;
+    color:'#000000';
+    padding-top:0.5px !important;
+    padding-bottom: 0.5px !important;
+    margin-bottom:0.5px !important;
+    margin-top:1px !important;
+    width:92% !important;
+    justify-content: space-between;
+    background-color: lightgray;
+}
+.App{
+    width:100% !important;
+ 
+}
+.todo-item{
+    margin-left:10px !important;
+    padding-left:10px !important;
+    
+}
+.task{
+    margin-left:10px !important;
+}
+.delete-icon{
+    margin-right:10px !important;
+}
+.input-field{
+    width:90% !important;
+}
